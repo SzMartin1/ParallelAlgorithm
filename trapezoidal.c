@@ -21,15 +21,14 @@ int main(){
   double runtime;
 
   omp_set_dynamic(0);     // Explicitly disable dynamic teams
-  omp_set_num_threads(2); // Use 4 threads for all consecutive parallel regions
+  omp_set_num_threads(6); // Use n threads for all consecutive parallel regions
 
   integral_new=trapezoidal(f,A,B,i);
 
   /* Perform integration by trapezoidal rule for different number of sub-intervals until they converge to the given accuracy:*/
   start=clock();
-#pragma omp parallel
-  #pragma omp do
     do{
+	printf("\n %d",i);
       integral=integral_new;
       i++;
       integral_new=trapezoidal(f,A,B,i);
@@ -38,8 +37,8 @@ int main(){
 
   runtime = (double)(stop-start)/CLOCKS_PER_SEC;
   /*Print the answer */
-  printf("The integral is: %lf\n with %d intervals",integral_new,i);
-  printf("\n Sequential runtime is %f sec.",runtime);
+  printf("\nThe integral is: %lf\n with %d intervals",integral_new,i);
+  printf("\n Parallel runtime is %f sec.",runtime);
 
   return 0;
 }
@@ -55,6 +54,8 @@ double trapezoidal(double f(double x), double a, double b, int n)
   double x,h,sum=0,integral;
   int i;
   h=fabs(b-a)/n;
+ #pragma omp parallel
+  #pragma omp for
   for(i=1;i<n;i++){
     x=a+i*h;
     sum=sum+f(x);
