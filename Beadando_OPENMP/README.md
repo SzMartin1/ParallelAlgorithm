@@ -10,4 +10,4 @@ Vizsgált esetek:
     -8 Threads
     -16 Threads
     
-    ![image](https://user-images.githubusercontent.com/78854567/167263829-d68c95de-af2b-4794-807c-4d68874c313e.png)
+
