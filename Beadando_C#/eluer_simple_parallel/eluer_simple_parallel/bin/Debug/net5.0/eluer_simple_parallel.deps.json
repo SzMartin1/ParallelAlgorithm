@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eluer_simple_parallel/1.0.0": {
+        "runtime": {
+          "eluer_simple_parallel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eluer_simple_parallel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
