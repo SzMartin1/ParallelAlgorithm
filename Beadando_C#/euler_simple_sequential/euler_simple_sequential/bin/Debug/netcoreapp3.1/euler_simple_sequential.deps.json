@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "euler_simple_sequential/1.0.0": {
+        "runtime": {
+          "euler_simple_sequential.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "euler_simple_sequential/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

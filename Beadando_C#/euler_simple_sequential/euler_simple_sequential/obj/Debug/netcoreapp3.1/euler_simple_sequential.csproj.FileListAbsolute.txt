@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\bin\Debug\netcoreapp3.1\euler_simple_sequential.exe
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\bin\Debug\netcoreapp3.1\euler_simple_sequential.deps.json
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\bin\Debug\netcoreapp3.1\euler_simple_sequential.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\bin\Debug\netcoreapp3.1\euler_simple_sequential.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\bin\Debug\netcoreapp3.1\euler_simple_sequential.dll
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\bin\Debug\netcoreapp3.1\euler_simple_sequential.pdb
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.dll
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.pdb
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_sequential\euler_simple_sequential\obj\Debug\netcoreapp3.1\euler_simple_sequential.genruntimeconfig.cache
