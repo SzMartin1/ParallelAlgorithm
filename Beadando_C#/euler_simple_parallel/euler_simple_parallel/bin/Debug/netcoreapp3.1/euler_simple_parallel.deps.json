@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "euler_simple_parallel/1.0.0": {
+        "runtime": {
+          "euler_simple_parallel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "euler_simple_parallel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

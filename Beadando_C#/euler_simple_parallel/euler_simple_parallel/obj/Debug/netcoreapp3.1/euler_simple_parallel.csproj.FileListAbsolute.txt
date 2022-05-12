@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\bin\Debug\netcoreapp3.1\euler_simple_parallel.exe
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\bin\Debug\netcoreapp3.1\euler_simple_parallel.deps.json
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\bin\Debug\netcoreapp3.1\euler_simple_parallel.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\bin\Debug\netcoreapp3.1\euler_simple_parallel.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\bin\Debug\netcoreapp3.1\euler_simple_parallel.dll
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\bin\Debug\netcoreapp3.1\euler_simple_parallel.pdb
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.dll
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.pdb
+C:\Users\Lenovo\OneDrive\Asztali gép\Programozas\c_sdk_220203\euler_simple_parallel\euler_simple_parallel\obj\Debug\netcoreapp3.1\euler_simple_parallel.genruntimeconfig.cache
