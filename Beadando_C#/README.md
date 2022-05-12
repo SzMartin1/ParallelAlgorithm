@@ -7,5 +7,8 @@ Vizsgált esetek:
       -4 Threads
       -8 Threads
       
+      
+      
+      
       ![image](https://user-images.githubusercontent.com/78854567/168035190-52890de1-86ef-4cd8-97ec-93acf9f2723d.png)
 
